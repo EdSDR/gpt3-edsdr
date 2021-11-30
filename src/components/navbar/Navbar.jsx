@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '/home/sydr/gpt3-edsdr/src/assets/logo.svg';
+import logo from './../../assets/logo.svg';
 import './navbar.css';
 
 const Navbar = () => {
