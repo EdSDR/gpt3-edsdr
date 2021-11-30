@@ -7,7 +7,7 @@ Modern Website in React JS
 
 The focus of this project has to code a simple React website and follow a class. Hope you enjoy!
 
-Thanks to [Davi Petris](https://github.com/DaviPtrs), for helping me to Deploy the website.
+Thanks to [Davi Petris](https://github.com/DaviPtrs), for helping me Deploy the website.
 
 ### Some Image Demonstrations
 
